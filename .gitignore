@@ -63,11 +63,6 @@ mvnw.cmd
 #################
 
 build
-gradle
-
-# Wrapper files
-gradlew
-gradlew.bat
 
 #################
 ## Visual Studio
@@ -184,7 +179,6 @@ Desktop.ini
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 *.zip
